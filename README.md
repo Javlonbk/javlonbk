@@ -1,7 +1,5 @@
 ## Hi, I'm Javlonbek 👋  
 
-<!--
-
 **Software Engineer | Frontend Specialist**
 
 ---
@@ -37,4 +35,3 @@ A sleek, responsive site to showcase my work, ideas, and experiments — built w
 
 > Let’s change the world. 🚀
 
--->
