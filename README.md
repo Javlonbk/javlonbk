@@ -15,7 +15,7 @@ You’ll often find me turning design systems into dynamic experiences, shipping
 
 ## Connect With Me  
 - GitHub: [@javlonbk](https://github.com/javlonbk)  
-- LinkedIn: [@javlonbk](https://www.linkedin.com/in/https://www.linkedin.com/in/javlonbk/)  
+- LinkedIn: [@javlonbk](https://www.linkedin.com/in/javlonbk/)  
 - Leetcode: [@javlonbek02](https://leetcode.com/u/Javlonbek02/)
 
 ---
