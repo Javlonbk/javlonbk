@@ -1,6 +1,6 @@
 ## Hi, I'm Javlonbek 👋  
 
-**Software Engineer | Frontend Specialist**
+**Software Engineer | Full Stack Developer**
 
 ---
 
